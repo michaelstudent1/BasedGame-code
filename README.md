@@ -4,7 +4,7 @@ int main() {
 
 	int room = 1;
 	char input;
-	cout << "You wake up to find yourself ina very huge dungeon. Its cold, and you must escape. Good luck!" << endl;
+	cout << "You wake up to find yourself in a very huge dungeon. Its cold, and you must escape. Good luck!" << endl;
 
 	do { 
 		switch (room) {
